@@ -1,0 +1,97 @@
+@media(min-width:992px) and (max-width:1199.90px) {}
+
+@media(min-width:768px) and (max-width:991.90px) {}
+
+@media(min-width:576px) and (max-width:767.90px) {}
+
+@media(max-width:767.90px) {
+    .custom_nav {
+        padding: 10px 0;
+    }
+
+    .navbar-collapse {
+        text-align: center;
+    }
+
+    #myNav ul li a {
+        padding: 10px 25px;
+    }
+}
+
+@media(max-width:575.90px) {
+    #banner .carousel-item {
+        height: 300px;
+    }
+
+    .carousel-caption h4 {
+        font-size: 15px;
+        letter-spacing: 5px;
+    }
+
+    .carousel-caption h5 {
+        font-size: 8px;
+    }
+
+    .carousel-caption p {
+        font-size: 6px;
+    }
+
+    .carousel-caption img {
+        margin-top: 10px;
+    }
+
+    .carousel-caption button {
+        margin-top: 18px;
+        padding: 5px 10px;
+    }
+
+    #about {
+        padding: 30px 0 50px 0;
+    }
+
+    .about_br {
+        border-right: none;
+        margin-top: 0;
+        width: 100%;
+    }
+
+    .about_itmes {
+        padding: 10px 0;
+    }
+
+    .new-h {
+        width: 100%;
+        text-align: center;
+    }
+
+    .space_top {
+        margin-top: 40px;
+        align-items: center;
+        text-align: center;
+    }
+
+    .contuct_form {
+
+        margin-top: 0px;
+    }
+
+    .btn_submit {
+        margin-top: 0px;
+        font-weight: 600;
+        padding: 5px 10px;
+    }
+
+    #foter {
+        padding: 10px;
+    }
+
+    .section_heading span {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+}
